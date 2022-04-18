@@ -1,0 +1,18 @@
+@import '../../styles/_settings.scss';
+
+.vp-actions-log {
+    padding: 12px;
+    background: rgba(20, 22, 120, 0.09);
+
+    .vp-inner {
+
+        .vp-log-item {
+            font-size: 15px;
+            color: $color_header;
+            font-style: italic;
+            margin-bottom: 3px;
+        }
+
+    }
+
+}
